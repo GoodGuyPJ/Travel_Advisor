@@ -1,6 +1,10 @@
-# Travel Advisor
+# Travel Advisor 
+Hope you like this Travel Guide App
+![pic 1](https://github.com/GoodGuyPJ/Travel_Advisor/assets/127659680/a4c2020e-ec9b-4773-a004-34c2926917cf) 
 
-![Travel Advisor](https://i.ibb.co/qph2cZn/image.pngg)
+![pic 2](https://github.com/GoodGuyPJ/Travel_Advisor/assets/127659680/fdf12df0-338b-45db-9239-ccbdb5a142dd)
+
+
 
 ## Introduction
 Build and Deploy an advanced Travel Companion Application using Google Maps. With Geolocation, Google Maps API, Searching for places, Fetching restaurants, hotels and attractions based on location from specialized Rapid APIs, data filtering and much more, this Travel Advisor App is the best Maps Application that you can currently find on YouTube and on the entire internet.
